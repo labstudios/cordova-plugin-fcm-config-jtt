@@ -7,9 +7,9 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>540484400389-o2j9esjcm023ivhpjrn54o24b1nu8g4v.apps.googleusercontent.com</string>
+	<string>540484400389-8p1nohqv291kigigav95dujipsdoit6m.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.540484400389-o2j9esjcm023ivhpjrn54o24b1nu8g4v</string>
+	<string>com.googleusercontent.apps.540484400389-8p1nohqv291kigigav95dujipsdoit6m</string>
 	<key>API_KEY</key>
 	<string>AIzaSyD_KVGtdgZ9joNxoxr-ExLOO5X0KhIMmkI</string>
 	<key>GCM_SENDER_ID</key>
@@ -17,7 +17,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.jtthorpe.safety</string>
+	<string>com.jtthorpe.jttsafety</string>
 	<key>PROJECT_ID</key>
 	<string>jtt-safety-app</string>
 	<key>STORAGE_BUCKET</key>
@@ -33,7 +33,7 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:540484400389:ios:8a8b44995d1151e9</string>
+	<string>1:540484400389:ios:44aa143b0966e5bf</string>
 	<key>DATABASE_URL</key>
 	<string>https://jtt-safety-app.firebaseio.com</string>
 </dict>
